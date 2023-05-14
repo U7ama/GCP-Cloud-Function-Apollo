@@ -1,0 +1,9 @@
+*.json
+*.json5
+*.yml
+*.yaml
+*.md
+
+dist/
+
+.volta
